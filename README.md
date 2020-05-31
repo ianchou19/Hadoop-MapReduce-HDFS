@@ -1,4 +1,4 @@
-# Realtime Big Data
+# Realtime Big Data project
 
 The following commands are executed in the working directory (this project path)
 
